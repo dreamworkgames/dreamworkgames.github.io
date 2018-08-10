@@ -2,6 +2,7 @@
 layout: post
 title: My first poem about identity-v
 subtitle: Hope you enjoy my first poem about identity-v
+image: /img/identity-v1.jpg
 tags: [poem]
 ---
 
