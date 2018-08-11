@@ -6,7 +6,7 @@ subtitle: Why you'd want to make friends with me
 
 My name is Roger Wang. I have the following qualities:
 
-- I play loads of games so you have lots of things in common with me, that makes us(in a way,)friends!
+- I play loads of games so you have lots of things in common with me, that makes us(in a way,) friends!
 - I'm extremely loyal to my family
 
 What else do you need?
