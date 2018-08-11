@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to make friends with me
 ---
 
-My name is Roge Wang. I have the following qualities:
+My name is Roger Wang. I have the following qualities:
 
-- I rock a great mustache
+- I play loads of games so you have lots of things in common with me, that makes us(in a way,)friends!
 - I'm extremely loyal to my family
 
 What else do you need?
+send me an e-mail at roger@dreamworkgames.com!
 
-### my history
+### why I created this website
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have always had a wish to gain myself popularity, but the only way it seems is to build a website! 
+by the way, this isn't a website only about games, you can find all sorts of stuff in here!... but i'm not telling you what!
+
+### latest updates
+
+- 8/11 [cartoons](/cartoons).(click to read more)
